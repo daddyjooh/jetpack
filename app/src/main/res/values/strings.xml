@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KTApplication</string>
+
+    <string name="text_search_icon">Search Icon</string>
+    <string name="text_heart_icon">Heart Icon</string>
+    <string name="text_add_icon">Add Icon</string>
+    <string name="text_back_icon">Back Icon</string>
+    <string name="text_filter_icon">Filter Icon</string>
+
+    <!-- Screen route -->
+    <string name="splash">Splash</string>
+    <string name="onboarding">OnBoarding</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="CourseDetails">Course Details</string>
+
+
+    <string name="onBoardingTitle1">Better way to learning is calling you!</string>
+    <string name="onBoardingText1">Welcome to our e-learning app! Learn anytime,anywhere!</string>
+
+    <string name="onBoardingTitle2">Find your self by doing whatever you do!</string>
+    <string name="onBoardingText2">Reading it is a journey that can broaden your horizons and stimulate your imaginations!</string>
+
+    <string name="onBoardingTitle3">It\'s not just learning , it\'s a promise! </string>
+    <string name="onBoardingText3">Reading can take you on adventures and expand your knowledge in ways you never imagined!</string>
+</resources>
